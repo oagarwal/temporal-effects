@@ -1,0 +1,1 @@
+These are the splits used for the temporal effects paper. The fuull original dataset can be found at <a href="https://nijianmo.github.io/amazon/index.html">https://nijianmo.github.io/amazon/index.html</a>
