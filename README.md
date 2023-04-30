@@ -2,4 +2,4 @@
 
 <p>Oshin Agarwal and Ani Nenkova, "Temporal Effects on Pre-trained Models for Language Processing Tasks", TACL 2022</p>
 
-<p>Preprint link - https://arxiv.org/abs/2111.12790</p>
+<p>Link - https://aclanthology.org/2022.tacl-1.53/</p>
